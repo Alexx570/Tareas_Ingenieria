@@ -6,13 +6,13 @@
 * 1.2. La importancia de la Ingeniería de Software.
 * 1.3. Historia de la Ingeniería de Software.
 * 1.4. Los sistemas de información: concepto, características, estructuras, procesos,
-* clasificación, ERP´s, CRM, SCM.
+ clasificación, ERP´s, CRM, SCM.
 
 ## Unidad 2: Modelos de la Ingeniería de Software
 * 2.1. Modelo de capacidad de madurez.
 * 2.2. Marco de trabajo para el proceso.
 * 2.3. Modelos de la ingeniería del software: Modelo de cascada, modelo de prototipos,
-* modelo de espiral, modelo de Proceso Unificado Racional (RUP). 
+ modelo de espiral, modelo de Proceso Unificado Racional (RUP). 
 * 2.4. Tendencias modernas de modelos de la ingeniería del software. 
 
 ## Unidad 3: Planificación del proyecto de Software
