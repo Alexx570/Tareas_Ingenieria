@@ -13,7 +13,7 @@ clasificación, ERP´s, CRM, SCM.
 * 2.2. Marco de trabajo para el proceso.
 * 2.3. Modelos de la ingeniería del software: Modelo de cascada, modelo de prototipos,
 modelo de espiral, modelo de Proceso Unificado Racional (RUP). 
-* 2.4. Tendencias modernas de modelos de la ingeniería del software. 
+* 2.4. Tendencias modernas de modelos de la ingeniería de software. 
 
 ## Unidad 3: Planificación del proyecto de Software
 * 3.1. Aplicación de herramientas para estimación de tiempos y costos de desarrollo de
