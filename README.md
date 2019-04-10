@@ -1,4 +1,4 @@
-# Temario: Ingenieria de Software
+﻿# Temario: Ingenieria de Software
 
 ## Unidad 1: Introducción a la Ingeniería de Software y Sistemas de Información
 * 1.1. Conceptos de Ingeniería de Software: Mitos, paradigma, Ingeniería de Software,
@@ -17,7 +17,7 @@ modelo de espiral, modelo de Proceso Unificado Racional (RUP).
 
 ## Unidad 3: Planificación del proyecto de Software
 * 3.1. Aplicación de herramientas para estimación de tiempos y costos de desarrollo de
-* software: GANTT, PERT/CPM, uso de software para la estimación de tiempos y costos. 
+software: GANTT, PERT/CPM, uso de software para la estimación de tiempos y costos. 
 * 3.2. Ámbito del software: recursos humanos, recursos de software reutilizables,
 recursos del entorno. 
 * 3.3. Análisis y gestión del riesgo: estrategias, identificación, proyección,
